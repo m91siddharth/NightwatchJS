@@ -3,7 +3,7 @@
 
   "webdriver" : {
     "start_process": true,
-    "server_path": "/home/sid/Work/NightwatchJS/chromedriver",
+    "server_path": "node_modules/.bin/chromedriver",
     "port": 9515
   },
 

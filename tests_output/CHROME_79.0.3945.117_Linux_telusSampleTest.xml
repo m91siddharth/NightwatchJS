@@ -5,9 +5,9 @@
 
   <testsuite name="telusSampleTest"
     errors="0" failures="0" hostname="" id="" package="telusSampleTest" skipped="0"
-    tests="4" time="22.77" timestamp="">
+    tests="4" time="22.98" timestamp="">
   
-    <testcase name="Launch to Telus portal" classname="telusSampleTest" time="6.882" assertions="3">
+    <testcase name="Launch to Telus portal" classname="telusSampleTest" time="6.211" assertions="3">
 
     
 
@@ -16,14 +16,14 @@
     
     </testcase>
   
-    <testcase name="Select Telus Plan" classname="telusSampleTest" time="7.558" assertions="2">
+    <testcase name="Select Telus Plan" classname="telusSampleTest" time="6.360" assertions="2">
 
     
 
     
     </testcase>
   
-    <testcase name="Navigate to Login Page" classname="telusSampleTest" time="8.264" assertions="5">
+    <testcase name="Navigate to Login Page" classname="telusSampleTest" time="10.25" assertions="5">
 
     
 
@@ -36,7 +36,7 @@
     
     </testcase>
   
-    <testcase name="Finished" classname="telusSampleTest" time="0.06400" assertions="0">
+    <testcase name="Finished" classname="telusSampleTest" time="0.1610" assertions="0">
     </testcase>
   
 
