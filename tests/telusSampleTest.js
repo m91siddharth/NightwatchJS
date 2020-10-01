@@ -16,6 +16,7 @@ module.exports = {
       .click('//a[contains(text(),"Plans")]')
   }, 
 
+  //Navigate to login page
   'Navigate to Login Page' : function(browser){
     browser
       .useXpath()
